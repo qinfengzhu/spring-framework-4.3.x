@@ -18,16 +18,5 @@
             <artifactId>spring-core</artifactId>
             <version>4.3.x</version>
         </dependency>
-
-        <!-- 引用spring-core的test代码生成的jar包 -->
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-core</artifactId>
-            <version>4.3.x</version>
-            <type>test-jar</type>
-            <scope>test</scope>
-        </dependency>
-
     </dependencies>
-
 </project>
